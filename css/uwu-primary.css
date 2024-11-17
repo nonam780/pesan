@@ -193,7 +193,7 @@ a:focus {
 	cursor: default;
 	text-transform: uppercase;
 	pointer-events: none;
-	text-align: center;
+	text-align: justify;
 }
 
 .content a {
